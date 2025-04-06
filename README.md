@@ -1,10 +1,11 @@
 # 👋 ¡Hola, soy Ernesto!  
-🎓 **Licenciado en Desarrollo Web** | 🛡️ **Especialista en Ciberseguridad**  
- <picture>
+<picture>
         <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.webp" type="image/webp">
         <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif"  width="32" height="32">
       </picture>
- Apasionado por la tecnología, la innovación y la creación de soluciones digitales seguras.  
+🎓 **Licenciado en Desarrollo Web** | 🛡️ **Especialista en Ciberseguridad**  
+
+🚀Apasionado por la tecnología, la innovación y la creación de soluciones digitales seguras.  
 🌐 Siempre aprendiendo y explorando nuevas herramientas del mundo digital.  
 
 ---
