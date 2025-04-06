@@ -4,7 +4,7 @@
 
 🎓 **Licenciado en Desarrollo de Aplicaciones Web** | 🛡️ **Especialización en Ciberseguridad**  
 
-🚀Apasionado por la tecnología, la innovación y la creación de soluciones digitales seguras.  
+🚀Apasionado por la tecnología, la innovación y la creación de código.  
 🌐 Siempre aprendiendo y explorando nuevas herramientas del mundo digital.  
 
 ---
