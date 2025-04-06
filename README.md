@@ -2,7 +2,7 @@
 # 👋 ¡Hola, soy Ernesto!  <picture>
        
 
-🎓 **Licenciado en Desarrollo Web** | 🛡️ **Especialista en Ciberseguridad**  
+🎓 **Licenciado en Desarrollo de Aplicaciones Web** | 🛡️ **Especialización en Ciberseguridad**  
 
 🚀Apasionado por la tecnología, la innovación y la creación de soluciones digitales seguras.  
 🌐 Siempre aprendiendo y explorando nuevas herramientas del mundo digital.  
