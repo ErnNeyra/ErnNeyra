@@ -39,8 +39,6 @@
         <img width="12" />
         <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
         <img width="12" />
-        <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-        <img width="12" />
         <img src="https://img.shields.io/badge/Amazon%20AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Amazon AWS" />
         <img width="12" />
         <img src="https://img.shields.io/badge/Chrome-%2331579C.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Chrome" />
